@@ -1,0 +1,21 @@
+lista1 = ("João Pedro Mafi", "4002-8922", "joao.p@gmail.com")
+lista2 = ("Cauê", "4002-3434", "caue@gmail.com")
+lista3 = ("Enzo", "4002-5555", "enzo@gmail.com")
+
+print("Contato 1:")
+print("nome: ", lista1[0])
+print("número:", lista1[1])
+print("email: ", lista1[2])
+print()
+
+print("Contato 2:")
+print("nome: ", lista2[0])
+print("número:", lista2[1])
+print("email: ", lista2[2])
+print()
+
+print("Contato 3:")
+print("nome: ", lista3[0])
+print("número:", lista3[1])
+print("email: ", lista3[2])
+print()
